@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403485156808",
+    "project_id": "globego-3ad3a",
+    "storage_bucket": "globego-3ad3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403485156808:android:d0777f7860e2a15cd30cfd",
+        "android_client_info": {
+          "package_name": "com.example.yeni_projem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDghS7B3h3pGvEPdl_jkCZduQW0Kyhu54c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

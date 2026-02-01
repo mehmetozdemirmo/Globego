@@ -1,0 +1,40 @@
+name: yeni_projem
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0 # SDK versiyonunu kararlı bir sürüme çektim
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # --- UI & UX (1. Seviye İçin Gerekli) ---
+  google_fonts: ^6.2.1  # Profesyonel Poppins fontu için
+  lottie: ^3.1.2        # Hareketli animasyonlar için
+
+  # --- Veri & Servisler ---
+  http: ^1.2.1
+  qr_flutter: ^4.1.0
+  fl_chart: ^1.1.1      # Bütçe analizleri için mükemmel bir tercih
+
+  # --- Firebase & Auth (İleride Login için kullanacağız) ---
+  firebase_core: ^3.10.1
+  firebase_auth: ^5.4.4
+  google_sign_in: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0 # Proje standartları için güncel tutuldu
+
+flutter:
+  uses-material-design: true
+
+  # Asset tanımlamaları (Dizine dikkat: Flutter'da girintiler çok hassastır)
+  assets:
+    - assets/images/globego.jpeg
+    # - assets/animations/ # Lottie dosyalarını indirdiğimizde burayı açacağız
