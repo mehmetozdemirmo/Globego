@@ -16,7 +16,8 @@ Access your tickets and itinerary anytime with the **Offline Digital Vault**, en
 * **Unsure of your next move?**
 Discover AI-powered routes on the fly, perfectly tailored to your current mood and remaining budget.
 
-* **You can visit our official website** for more information, updates, and resources: https://mehmetozdemirmo.github.io/Globego-Web/
+* **You can visit our official website**
+For more information, updates, and resources: https://mehmetozdemirmo.github.io/Globego-Web/
 
 ---
 
