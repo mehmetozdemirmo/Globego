@@ -100,6 +100,14 @@ The evolution of GlobeGo is structured into 5 strategic phases, transforming it 
 
 ---
 
+## 📬 Contact
+
+For any inquiries or feedback, you can reach us at:
+
+📧 *Email:* [globego.contact@gmail.com](mailto:globego.contact@gmail.com)
+
+---
+
 ## 📂 Project Structure
 
 ```
