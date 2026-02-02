@@ -14,7 +14,10 @@ The AI engine constantly monitors your limits and suggests the most cost-effecti
 * **No internet while abroad?**
 Access your tickets and itinerary anytime with the **Offline Digital Vault**, ensuring zero interruptions to your journey.  
 * **Unsure of your next move?**
-Discover AI-powered routes on the fly, perfectly tailored to your current mood and remaining budget.  
+Discover AI-powered routes on the fly, perfectly tailored to your current mood and remaining budget.
+
+* **You can visit our official website** for more information, updates, and resources: https://mehmetozdemirmo.github.io/Globego-Web/
+
 ---
 
 ## ✨ Key Features
